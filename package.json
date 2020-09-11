@@ -1,7 +1,7 @@
 {
-  "name": "typescript-web-application",
+  "name": "pong",
   "version": "0.0.0",
-  "description": "A TypeScript web application template that can be used as a seed for new projects",
+  "description": "A browser based implementation of the Atari classic Pong",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NuclearRedeye/typescript-web-application.git"
+    "url": "git+https://github.com/NuclearRedeye/pong.git"
   },
   "author": "NuclearRedeye",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NuclearRedeye/typescript-web-application/issues"
+    "url": "https://github.com/NuclearRedeye/pong/issues"
   },
-  "homepage": "https://github.com/NuclearRedeye/typescript-web-application#readme",
+  "homepage": "https://github.com/NuclearRedeye/pong#readme",
   "commitlint": {
     "extends": [
       "@commitlint/config-conventional"
